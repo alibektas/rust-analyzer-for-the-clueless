@@ -1,0 +1,6 @@
+[book]
+authors = ["Ali Bektas"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rust Analyzer for the Clueless"
