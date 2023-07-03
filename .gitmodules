@@ -1,0 +1,6 @@
+[submodule "converter/rust-analyzer"]
+	path = converter/rust-analyzer
+	url = https://github.com/rust-lang/rust-analyzer
+[submodule "rust-analyzer"]
+	path = rust-analyzer
+	url = https://github.com/alibektas/rust-analyzer
